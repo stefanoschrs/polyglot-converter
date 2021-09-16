@@ -9,7 +9,7 @@ rm example/example.{go,ts,py}
 
 go run main.go example/example.yml example/
 
-readmeFile="example/index.md"
+readmeFile="example/README.md"
 echo "# Full Example" > "${readmeFile}"
 
 echo "## YAML" >> "${readmeFile}"
