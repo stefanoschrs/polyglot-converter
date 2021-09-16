@@ -1,0 +1,11 @@
+Color:
+  Red: 0
+  Green: 1
+  Blue: 2
+
+Elements:
+  Wood: "wood"
+  Fire: "fire"
+  Earth: "earth"
+  Metal: "metal"
+  Water: "water"
